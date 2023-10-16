@@ -1,0 +1,28 @@
+body
+{
+  background-color: #A076F9;
+}
+
+ #cv-form
+{
+  /* display : none; */
+}
+
+#cv-template
+{
+  display:none;
+}
+img
+{
+  border-radius:50%;
+  width : 200px;
+}
+.background
+{
+  background-color: white;
+
+}
+.myimg {
+  border-radius: 50%;
+  width:200px;
+}
